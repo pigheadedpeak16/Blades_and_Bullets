@@ -1,4 +1,8 @@
 ﻿<Solution>
   <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
+<<<<<<< Updated upstream
+=======
+  <Project Path="Game.Collectibles.csproj" />
+>>>>>>> Stashed changes
 </Solution>
